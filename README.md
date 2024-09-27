@@ -4,7 +4,9 @@ In this project, I developed a machine learning system that analyzes soil, clima
 Key Features:
 
 Collected and preprocessed data from Kaggle using Pandas.
+
 Implemented models such as Random Forest, Decition Tree and Xgboost etc.. with Scikit-Learn.
+
 Tuned hyperparameters and evaluated models with cross-validation
 
 Tools:
