@@ -1,9 +1,10 @@
 # Crop-Recommendation-System-
-Python, Scikit-Learn, Matplotlib, etc. 
+In this project, I developed a machine learning system that analyzes soil, climate, and environmental data to provide optimal crop recommendations. This system is designed to help farmers make informed decisions, ultimately improving crop yield and reducing farming costs.
 
-• Engineered a machine learning system analyzing soil, climate, and environmental data for optimal crop
-recommendations; increased crop yield by 40% and reduced farming costs by 25%.
+Key Features:
+Collected and preprocessed data from Kaggle using Pandas.
+Implemented models such as Random Forest, Decition Tree and Xgboost etc.. with Scikit-Learn.
+Tuned hyperparameters and evaluated models with cross-validation
 
-• Collected and preprocessed data from kaggle sources.
-
-• Implemented and evaluated multiple classification machine learning algorithms using Scikit-Learn
+Tools:
+Python, Scikit-Learn, Matplotlib, Pandas
